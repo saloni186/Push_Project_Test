@@ -12,7 +12,11 @@ m1(l);
 System.out.println(l);
 }
 public static void m1(ArrayList l){
+<<<<<<< HEAD
 String s="dfkfhakj";
+=======
+int i=10;
+>>>>>>> f0c3613d9f26f49ea4fbbb94da853088af12aa27
 l.add(20);
 l.add('a');
 }
