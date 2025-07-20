@@ -31,6 +31,8 @@ l.add(20);
 l.add('a');
 int saloni=25;
 >>>>>>> 371631bea88fe9e4e0c29a625b7bd1353d3aaded
+
+boolean flag=false;
 }
 
 }
