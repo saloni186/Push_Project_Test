@@ -12,7 +12,7 @@ m1(l);
 System.out.println(l);
 }
 public static void m1(ArrayList l){
-
+int i=10;
 l.add(20);
 l.add('a');
 }
